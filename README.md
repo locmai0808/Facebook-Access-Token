@@ -4,8 +4,6 @@ Generating a full permission (Android | iPhone) Facebook Access Token
 
 ## How to use
 
-### Cài đặt từ source
-
 ```
 git clone https://github.com/locmai0808/Facebook-Access-Token.git
 cd Facebook-Access-Token
