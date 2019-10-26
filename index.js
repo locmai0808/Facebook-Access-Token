@@ -1,6 +1,6 @@
 const express = require('express');
 const getToken = require('./token');
-const PORT = process.env.PORT || 5000;
+const POORT = process.env.PORT || 5000;
 
 const app = express();
 app.use(express.static('public'));
